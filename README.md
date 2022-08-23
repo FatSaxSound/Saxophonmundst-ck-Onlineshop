@@ -9,6 +9,6 @@ besonders beliebt. Wie oben erwähnt, liegt es an der enormen Fertigungsstreuung
 
 Meine Idee ist folgende: Was wäre, wenn der Hersteller gezwungen wird, seine Prozesse zu modernisieren? Man könnte versuchen, diesen Schritt über die Errichtung eines speziellen Onlineshops zu erreichen. Hier sollen Kunden die Möglichkeit bekommen, über detaillierte Informationen zu einem Mundstück eine gute Entscheidung für einen Kauf zu treffen. Außerdem sollen Spezialkunden die Möglichkeit erhalten, die Mundstück-Datenbank selbständig ergänzen zu können.
 
-Dieser Webshop ist zunächst einmal nur dazu gedacht, herauszufinden, ob die notwendige Funktionalität aufgebaut werden kann. Dies ist mein allererstes Projekt, von daher würde es mir reichen, wenn ich hier einfach Erfahrung sammeln könnte.
+Dieser Webshop ist zunächst einmal nur dazu gedacht, herauszufinden, ob die notwendige Funktionalität aufgebaut werden kann. Dies ist mein allererstes Projekt, von daher würde es mir reichen, wenn ich hier einfach Erfahrung sammeln könnte. Bitte beachtet außerdem, dass die im Spezifikationsdokument angegebenen Stakeholder fiktiv sind.
 
 Hinweis: Diese Datei wird möglicherweise im Laufe der Zeit nochmal angepasst.
