@@ -6,7 +6,7 @@ Durch die Tatsache, dass ich somit viel Erfahrung beim Spielen habe, ärgere ich
 baut Mundstücke der Marken Meyer USA und Otto Link. Link dazu hier: https://jjbabbitt.com/
 
 Obwohl die beiden Marken Otto Link und Meyer mit Abstand zu den bekanntesten Marken in der Saxophonwelt gehören, sind sie gerade bei erfahrenen Spieler heutzutage nicht
-besonders beliebt. Wie oben erwähnt, liegt es an der enormen Fertigungsstreuung, die u. A. durch den veralten Gussherstellungsverfahren verursacht werden. Das führt dazu,
+besonders beliebt. Wie oben erwähnt, liegt es an der enormen Fertigungsstreuung, die u. A. durch das veraltete Gussherstellungsverfahren verursacht werden. Das führt dazu,
 dass ein Mundstück derselben Marke und desselben Typs unterschiedlich klingen oder sogar komplett unspielbar sind.
 
 Um den Hersteller zu zwingen, seine Prozesse zu überarbeiten, möchte ich einen Onlineshop hochziehen. Hier sollen Kunden die Möglichkeit bekommen, über detaillierte
